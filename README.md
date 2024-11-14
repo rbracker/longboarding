@@ -25,6 +25,7 @@ This website includes:
 
 ## Preview
 ![alt text](<assets/images/giphy (1).gif>)
+You can visit the webpage here https://rbracker.github.io/longboarding/
 
 ## How to Use
 

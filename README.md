@@ -24,7 +24,6 @@ This website includes:
 - **Contact Section**: Sign up to stay updated with our latest designs and products.
 
 ## Preview
-<<<<<<< HEAD
 <video controls src="assets/images/new project video.mp4" title="Title"></video>
 
 You can visit the webpage here https://rbracker.github.io/longboarding/

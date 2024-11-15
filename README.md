@@ -31,7 +31,6 @@ You can visit the webpage here https://rbracker.github.io/longboarding/
 =======
 ![alt text](<assets/images/giphy (1).gif>)
     You can visit the webpage here https://rbracker.github.io/longboarding/
->>>>>>> d1045d053d932a47a3d57efb6fae32a1c5ad3c64
 
 ## How to Use
 
